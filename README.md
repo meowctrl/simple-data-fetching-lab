@@ -1,4 +1,4 @@
-# React Simple Data Fetching Lab
+# React Simple Data Fetching Lab - *Screenshot of finished work at bottom*
 
 ## Learning Goals
 
@@ -69,9 +69,14 @@ npm run test
 ### 4. Test and Refine 
 * Debugging and testing during coding using React DevTools in Chrome
 ### 5. Document and Maintain 
+
 * Commit as you go, writing meaningful commit messages
 * Push commit history to GitHub periodically and when lab is complete
 
 ## Submission
+
+<img width="1915" height="1134" alt="Screenshot 2026-03-04 204523" src="https://github.com/user-attachments/assets/5a4c4080-b786-4075-b064-d00893dbeb5d" />
+
 Once the lab is complete, all tests are passing, and you've pushed the completed code to 
 your forked repo on GitHub, submit your GitHub repo through Canvas using CodeGrade.
+
